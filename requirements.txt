@@ -1,0 +1,21 @@
+# Core dependencies for BGE-Reasoner BRIGHT reproduction
+datasets>=2.14.0
+sentence-transformers>=2.2.0
+transformers>=4.35.0
+torch>=2.0.0
+numpy>=1.24.0
+pyyaml>=6.0
+tqdm>=4.65.0
+huggingface-hub>=0.16.0
+
+# For retrieval experiments
+scipy>=1.10.0
+scikit-learn>=1.3.0
+
+# Optional: for GPU acceleration
+# accelerate>=0.24.0
+# bitsandbytes>=0.41.0
+
+# Optional: for advanced features
+# faiss-gpu>=1.7.4  # For fast similarity search (GPU version)
+# faiss-cpu>=1.7.4  # For fast similarity search (CPU version)

@@ -1,0 +1,10 @@
+algo_name,opt_recall,ndcg_gt,# of bi-encoder evals,# of reranker evals,# of tokens,# of api_calls
+algo_name,opt_recall,ndcg_gt,# of bi-encoder evals,# of reranker evals,# of tokens,# of api_calls
+Retrieve,0.880154801194405,"[0.1188118811881188, 0.1300350698021171, 0.1433248887846511]",15480.287128712871,0.0,0.0,0.0
+algo_name,opt_recall,ndcg_gt,# of bi-encoder evals,# of reranker evals,# of tokens,# of api_calls
+Retrieve,0.880154801194405,"[0.1188118811881188, 0.1300350698021171, 0.1433248887846511]",15480.287128712871,0.0,0.0,0.0
+algo_name,opt_recall,ndcg_gt,# of bi-encoder evals,# of reranker evals,# of tokens,# of api_calls
+Retrieve,0.880154801194405,"[0.1188118811881188, 0.1300350698021171, 0.1433248887846511]",15480.287128712871,0.0,0.0,0.0
+algo_name,opt_recall,ndcg_gt,# of bi-encoder evals,# of reranker evals,# of tokens,# of api_calls
+Retrieve,0.880154801194405,"[0.1188118811881188, 0.1300350698021171, 0.1433248887846511]",15480.287128712871,0.0,0.0,0.0
+RetrieveGuidedSearch,0.8058109382366808,"[0.3564356435643564, 0.39235804902358135, 0.40807775925709705]",15480.287128712871,442.4950495049505,498429.44554455444,188.11881188118812

@@ -1,0 +1,6 @@
+algo_name,opt_recall,ndcg_gt,# of bi-encoder evals,# of reranker evals,# of tokens,# of api_calls
+algo_name,opt_recall,ndcg_gt,# of bi-encoder evals,# of reranker evals,# of tokens,# of api_calls
+Retrieve,0.9380584950029394,"[0.12037037037037036, 0.11856906796698631, 0.14318327778035658]",17062.34259259259,0.0,0.0,0.0
+algo_name,opt_recall,ndcg_gt,# of bi-encoder evals,# of reranker evals,# of tokens,# of api_calls
+Retrieve,0.9380584950029394,"[0.12037037037037036, 0.11856906796698631, 0.14318327778035658]",17062.34259259259,0.0,0.0,0.0
+RetrieveGuidedSearch,0.8186728395061729,"[0.2777777777777778, 0.2873882962837611, 0.3248988062943394]",17062.34259259259,435.8703703703704,350865.80555555556,184.64814814814815
