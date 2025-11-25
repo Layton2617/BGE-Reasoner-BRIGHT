@@ -1,0 +1,2 @@
+algo_name,opt_recall,ndcg_gt,# of bi-encoder evals,# of reranker evals,# of tokens,# of api_calls
+Retrieve,0.8837408837408838,"[0.06306306306306306, 0.04256532046178088, 0.05956149402944877]",0.0,0.0,0.0,0.0

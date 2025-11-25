@@ -1,0 +1,12 @@
+dataset,NDCG@1,NDCG@5,NDCG@10
+aops,0.0631,0.0426,0.0596
+biology,0.3592,0.3076,0.3432
+earth_science,0.4483,0.3678,0.4001
+economics,0.1845,0.1992,0.2285
+pony,0.3125,0.2011,0.1788
+psychology,0.2772,0.2713,0.2961
+robotics,0.2079,0.1906,0.2093
+stackoverflow,0.2222,0.2444,0.2756
+sustainable_living,0.2130,0.2070,0.2308
+theoremqa_questions,0.3144,0.3230,0.3368
+theoremqa_theorems,0.3289,0.4059,0.4548

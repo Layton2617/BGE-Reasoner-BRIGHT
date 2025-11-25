@@ -1,0 +1,49 @@
+algo_name,opt_recall,ndcg_gt,# of bi-encoder evals,# of reranker evals,# of tokens,# of api_calls
+Retrieve,0.0,"[0.0, 0.0, 0.0]",9.0,0.0,0.0,0.0
+RetrieveGuidedSearch,0.0,"[0.0, 0.0, 0.0]",9.0,9.0,871.9732142857143,2.0
+RetrieveGuidedSearch,0.0,"[0.0, 0.0, 0.0]",9.0,9.0,871.9732142857143,2.0
+RetrieveGuidedSearch,0.0,"[0.0, 0.0, 0.0]",9.0,9.0,871.9732142857143,2.0
+algo_name,opt_recall,ndcg_gt,# of bi-encoder evals,# of reranker evals,# of tokens,# of api_calls
+Retrieve,0.0,"[0.0, 0.0, 0.0]",9.0,0.0,0.0,0.0
+RetrieveGuidedSearch,0.0,"[0.0, 0.0, 0.0]",9.0,9.0,871.9732142857143,2.0
+RetrieveGuidedSearch,0.0,"[0.0, 0.0, 0.0]",9.0,9.0,871.9732142857143,2.0
+RetrieveGuidedSearch,0.0,"[0.0, 0.0, 0.0]",9.0,9.0,871.9732142857143,2.0
+algo_name,opt_recall,ndcg_gt,# of bi-encoder evals,# of reranker evals,# of tokens,# of api_calls
+Retrieve,0.0,"[0.0, 0.0, 0.0]",9.0,0.0,0.0,0.0
+RetrieveGuidedSearch,0.0,"[0.0, 0.0, 0.0]",9.0,9.0,871.9732142857143,2.0
+RetrieveGuidedSearch,0.0,"[0.0, 0.0, 0.0]",9.0,9.0,871.9732142857143,2.0
+RetrieveGuidedSearch,0.0,"[0.0, 0.0, 0.0]",9.0,9.0,871.9732142857143,2.0
+algo_name,opt_recall,ndcg_gt,# of bi-encoder evals,# of reranker evals,# of tokens,# of api_calls
+Retrieve,0.0,"[0.0, 0.0, 0.0]",9.0,0.0,0.0,0.0
+algo_name,opt_recall,ndcg_gt,# of bi-encoder evals,# of reranker evals,# of tokens,# of api_calls
+algo_name,opt_recall,ndcg_gt,# of bi-encoder evals,# of reranker evals,# of tokens,# of api_calls
+Retrieve,0.0,"[0.0, 0.0, 0.0]",9.0,0.0,0.0,0.0
+RetrieveGuidedSearch,0.0,"[0.0, 0.0, 0.0]",9.0,9.0,871.9732142857143,2.0
+RetrieveGuidedSearch,0.0,"[0.0, 0.0, 0.0]",9.0,9.0,871.9732142857143,2.0
+RetrieveGuidedSearch,0.0,"[0.0, 0.0, 0.0]",9.0,9.0,871.9732142857143,2.0
+algo_name,opt_recall,ndcg_gt,# of bi-encoder evals,# of reranker evals,# of tokens,# of api_calls
+Retrieve,0.0,"[0.0, 0.0, 0.0]",9.0,0.0,0.0,0.0
+RetrieveGuidedSearch,0.0,"[0.0, 0.0, 0.0]",9.0,9.0,871.9732142857143,2.0
+algo_name,opt_recall,ndcg_gt,# of bi-encoder evals,# of reranker evals,# of tokens,# of api_calls
+Retrieve,0.0,"[0.0, 0.0, 0.0]",9.0,0.0,0.0,0.0
+RetrieveGuidedSearch,0.0,"[0.0, 0.0, 0.0]",9.0,9.0,871.9732142857143,2.0
+RetrieveGuidedSearch,0.0,"[0.0, 0.0, 0.0]",9.0,9.0,871.9732142857143,2.0
+RetrieveGuidedSearch,0.0,"[0.0, 0.0, 0.0]",9.0,9.0,871.9732142857143,2.0
+algo_name,opt_recall,ndcg_gt,# of bi-encoder evals,# of reranker evals,# of tokens,# of api_calls
+Retrieve,0.0,"[0.0, 0.0, 0.0]",9.0,0.0,0.0,0.0
+RetrieveGuidedSearch,0.0,"[0.0, 0.0, 0.0]",9.0,9.0,871.9732142857143,2.0
+RetrieveGuidedSearch,0.0,"[0.0, 0.0, 0.0]",9.0,9.0,871.9732142857143,2.0
+algo_name,opt_recall,ndcg_gt,# of bi-encoder evals,# of reranker evals,# of tokens,# of api_calls
+algo_name,opt_recall,ndcg_gt,# of bi-encoder evals,# of reranker evals,# of tokens,# of api_calls
+Retrieve,0.0,"[0.0, 0.0, 0.0]",9.0,0.0,0.0,0.0
+algo_name,opt_recall,ndcg_gt,# of bi-encoder evals,# of reranker evals,# of tokens,# of api_calls
+algo_name,opt_recall,ndcg_gt,# of bi-encoder evals,# of reranker evals,# of tokens,# of api_calls
+Retrieve,0.9990079365079365,"[0.14285714285714285, 0.14918981133965145, 0.13892717712424812]",0.0,0.0,0.0,0.0
+algo_name,opt_recall,ndcg_gt,# of bi-encoder evals,# of reranker evals,# of tokens,# of api_calls
+Retrieve,0.9990079365079365,"[0.14285714285714285, 0.14918981133965145, 0.13892717712424812]",0.0,0.0,0.0,0.0
+algo_name,opt_recall,ndcg_gt,# of bi-encoder evals,# of reranker evals,# of tokens,# of api_calls
+Retrieve,0.9990079365079365,"[0.14285714285714285, 0.14918981133965145, 0.13892717712424812]",0.0,0.0,0.0,0.0
+RetrieveGuidedSearch,0.5436153628117915,"[0.4107142857142857, 0.20350763694954238, 0.18441345841893494]",0.0,91.6875,65370.732142857145,39.955357142857146
+algo_name,opt_recall,ndcg_gt,# of bi-encoder evals,# of reranker evals,# of tokens,# of api_calls
+Retrieve,0.9990079365079365,"[0.14285714285714285, 0.14918981133965145, 0.13892717712424812]",0.0,0.0,0.0,0.0
+RetrieveGuidedSearch,0.5005350056689343,"[0.3125, 0.20109013786643337, 0.17884670399445762]",0.0,89.38392857142857,34501.11607142857,21.732142857142858

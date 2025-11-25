@@ -1,0 +1,8 @@
+faiss-cpu>=1.7.0
+numpy>=1.21.0
+openai>=1.0.0
+pytrec_eval
+transformers>=4.30.0
+torch>=2.0.0
+datasets
+tqdm
