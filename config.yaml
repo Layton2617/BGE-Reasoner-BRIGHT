@@ -1,0 +1,63 @@
+embedding_models:
+  bge-reasoner:
+    model_id: "BAAI/bge-reasoner-embed-qwen3-8b-0923"
+    type: "sentence_transformer"
+    batch_size: 32
+    normalize: true
+    device: "cuda"
+
+  bge-large:
+    model_id: "BAAI/bge-large-en-v1.5"
+    type: "sentence_transformer"
+    batch_size: 1024
+    normalize: true
+    device: "cuda"
+
+  bge-base:
+    model_id: "BAAI/bge-base-en-v1.5"
+    type: "sentence_transformer"
+    batch_size: 1024
+    normalize: true
+    device: "cuda"
+
+  bge-small:
+    model_id: "BAAI/bge-small-en-v1.5"
+    type: "sentence_transformer"
+    batch_size: 2048
+    normalize: true
+    device: "cuda"
+
+bright_datasets:
+  - biology
+  - earth_science
+  - economics
+  - psychology
+  - robotics
+  - stackoverflow
+  - sustainable_living
+  - pony
+  - leetcode
+  - aops
+  - theoremqa_theorems
+  - theoremqa_questions
+
+dataset_prompts:
+  biology: "Represent this Biology post for searching relevant passages: "
+  earth_science: "Represent this Earth Science post for searching relevant passages: "
+  economics: "Represent this Economics post for searching relevant passages: "
+  psychology: "Represent this Psychology post for searching relevant passages: "
+  robotics: "Represent this Robotics post for searching relevant passages: "
+  stackoverflow: "Represent this Stack Overflow post for searching relevant passages: "
+  sustainable_living: "Represent this Sustainable Living post for searching relevant passages: "
+  leetcode: "Represent this Coding problem for searching relevant examples: "
+  pony: "Represent this Pony question for searching relevant passages: "
+  aops: "Represent this Math Problem for searching relevant examples: "
+  theoremqa_theorems: "Represent this Math Problem for searching relevant examples: "
+  theoremqa_questions: "Represent this Math Problem for searching relevant examples: "
+
+experiment:
+  algorithms: [RGS, RR, SlideGAR]
+  target_ndcg: 37.1
+  embedding_path: "./embedding_data/BRIGHT/"
+  results_path: "./results/"
+  logs_path: "./logs/"
